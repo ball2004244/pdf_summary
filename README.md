@@ -1,6 +1,9 @@
 # Target
 The goal of this project is to summarize a PDF document using several ML algorithms. The program will take in a PDF file as input and produce a small summary, along with 10 relevant keywords and 5 bullet points. The output will be saved in a text file or equivalent format.
 
+## Repo Status
+The project is postponed until having new information
+
 # Methodology
 The algorithm will be broken down into several steps:
 
